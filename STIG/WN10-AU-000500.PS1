@@ -24,7 +24,6 @@
     PS C:\> .\STIG-ID-WN10-AU-000500.ps1 
 #>
 
-# YOUR CODE GOES HERE# Enable "Audit Removable Storage" for Success and Failure
 AuditPol /set /subcategory:"Removable Storage" /success:enable /failure:enable
 
 # Set Application log max size via Registry
