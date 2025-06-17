@@ -14,8 +14,7 @@
 
 
 .USAGE
-    Put any usage instructions here.
-    Example syntax:
+  
     PS C:\> .\STIG-ID-WN10-SO-000035.ps1 
 #>
 
