@@ -6,12 +6,17 @@
     Author          : Mohamed Abdullahi
     GitHub          : https://github.com/Mabdulli
     Date Created    : 2025-06-16
-    Last Modified   : 2025-06-16
+    Last Modified   : 2025-07-06
     Version         : 1.0
     CVEs            : N/A
     Plugin IDs      : N/A
     STIG-ID         : WN10-SO-000035
 
+.TESTED ON
+    Date(s) Tested  : 
+    Tested By       : 
+    Systems Tested  : 
+    PowerShell Ver. : 
 
 .USAGE
   
