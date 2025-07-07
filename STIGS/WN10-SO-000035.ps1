@@ -12,11 +12,6 @@
     Plugin IDs      : N/A
     STIG-ID         : WN10-SO-000035
 
-.TESTED ON
-    Date(s) Tested  : 
-    Tested By       : 
-    Systems Tested  : 
-    PowerShell Ver. : 
 
 .USAGE
   
